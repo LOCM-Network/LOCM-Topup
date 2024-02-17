@@ -1,0 +1,10 @@
+name: Donate
+version: 1.0
+main: me.phuongaz.thesieure.Loader
+author: phuongaz
+description: Donate plugin for LOCM
+api-version: 1.20
+commands:
+  napthe:
+    description: Donate command
+    usage: /napthe <loại thẻ> <mệnh giá> <seri> <mã thẻ>
